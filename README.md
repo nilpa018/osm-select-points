@@ -42,4 +42,4 @@ Les contributions sont les bienvenues !
 
 Si vous souhaitez contribuer à ce projet, veuillez me contacter.
 ## Auteur
-[Marchand Loïc](mailto:nilpa018@yahoo.fr?Subject=Contact depuis votre repository github)
+[Marchand Loïc](mailto:nilpa018@yahoo.fr)
