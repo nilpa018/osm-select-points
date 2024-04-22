@@ -1,12 +1,14 @@
 import './App.css'
+import { SimpleMap } from "./SimpleMap.jsx";
 
 function App() {
   return (
-    <>
-      <h1>Open Street Map - Select points</h1>
-        <p>Permet l'affichage d'une map contenant des géopoints et une façon de séléctionner plusieurs de ces points.</p>
-    </>
-  )
+          <div>
+              <h1>Leaflet with React</h1>
+              <p>Marker to M2i Lyon Gerland and website link</p>
+              <SimpleMap/>
+          </div>
+  );
 }
 
-export default App
+export default App;
